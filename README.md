@@ -1,6 +1,6 @@
 ![LogoMaster](https://github.com/CodeCreatePlay360/tutorials_/assets/104358085/515c70d5-3e58-4521-a6a5-0ee9d4c6d522)
 
-## Hi all, 👋 welcome to CodeCreatePlay - we make software, programming tutorials and a bunch of other cool stuff like CGI landscapes.
+## Hi all, 👋 welcome to CodeCreatePlay - we make software, programming tutorials and a bunch of other cool stuff like 3D landscapes.
 
 > - 🔭 Currently working on some cool stuff...
 > - 🌱 Learning GLSL shaders...
