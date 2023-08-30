@@ -26,7 +26,7 @@
 
 ### Featured Work
 - [PandaEditor](https://github.com/CodeCreatePlay360/PandaEditor)
-- [MassiveDesigner Project: General purpose level design and AI characters programming framework](https://github.com/CodeCreatePlay360/MassiveDesigner-Project) 
+- [MassiveDesigner Project: General purpose level design and AI behavior designer tool for Unity engine](https://github.com/CodeCreatePlay360/Massive-Designer)
 
 ### Featured Tutorials and Blog Posts
 --
