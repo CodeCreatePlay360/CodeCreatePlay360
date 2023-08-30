@@ -25,8 +25,8 @@
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 
 ### Featured Work
-- [PandaEditor](https://github.com/CodeCreatePlay360/PandaEditor)
-- [MassiveDesigner Project: General purpose level design and AI behavior designer tool for Unity engine](https://github.com/CodeCreatePlay360/Massive-Designer)
+- [PandaEditor: Scene editor for Panda3D game engine](https://github.com/CodeCreatePlay360/PandaEditor)
+- [Massive-Designer: General purpose level design and AI behavior designer tool for Unity engine](https://github.com/CodeCreatePlay360/Massive-Designer)
 
 ### Featured Tutorials and Blog Posts
 --
