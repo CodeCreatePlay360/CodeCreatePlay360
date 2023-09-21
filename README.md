@@ -1,6 +1,6 @@
-![LogoMaster](https://github.com/CodeCreatePlay360/tutorials_/assets/104358085/515c70d5-3e58-4521-a6a5-0ee9d4c6d522)
+![LogoMaster](https://github.com/CodeCreatePlay360/CodeCreatePlay360/assets/104358085/e09c05c8-3568-4c91-a475-6820a388f481)
 
-## Hii, 👋 welcome to CodeCreatePlay - we make software, programming tutorials and a bunch of other cool stuff like 3D environments for games and films.
+## Hi, 👋 welcome to CodeCreatePlay - we make software, programming tutorials and a bunch of other cool stuff like 3D environments for games and films.
 
 > - 🔭 Currently working on some cool stuff...
 > - 🌱 Learning GLSL shaders...
