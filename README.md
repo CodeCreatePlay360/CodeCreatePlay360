@@ -1,40 +1,29 @@
-![LogoMaster](https://github.com/CodeCreatePlay360/CodeCreatePlay360/assets/104358085/e09c05c8-3568-4c91-a475-6820a388f481)
+![LogoMaster](https://github.com/CodeCreatePlay360/CodeCreatePlay360/assets/104358085/e2a7ea0a-793f-42b8-b14f-4c347e114aaf)
 
 ## Hi, 👋 welcome to CodeCreatePlay - we make software, programming tutorials and a bunch of other cool stuff like 3D environments for games and films.
 
-> - 🔭 Currently working on some cool stuff...
-> - 🌱 Learning GLSL shaders...
-> - 👯 Need someone to collaborate for making good looking demos for PandaEditor...
-> - 🤔 Looking for someone with professional digital marketing skills...
-> - 💬 Ask me anything but related to...
-> - 🎮 Want to learn game dev using Python? then checkout [Panda3D tutorials](https://github.com/CodeCreatePlay360/Panda3D-Resources)...
-> - 🤣😓 Fun fact - Overthink(-ing) about everything including overthinking...
-> - 📫 How to reach me - CodeCreatePlay360@gmail.com.
+**Check out some of the cool stuff from CodeCreatePlay --** 
 
+> 🪶 **PandaEditor** is an open source 3D level / scene editor built on top of Panda3D game engine, perfect for hobbyists, professionals and beginners alike; it is designed to be easy to use and extend and provide end users with a convenient workflow to create immersive and engaging game words, architecture and scientific visualizations and anything else you would imagine in 3D. PandaEditor comes with support for python and C++ scripting and lots of other out of the box features. Visit PandaEditor homepage for documentation and installation guide https://github.com/CodeCreatePlay360/PandaEditor.
 
-### Tools and Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+> 🌲 **Immersive AI** is a library of AI decision making algorithms and tools to create realistic and believable AI behaviors for game characters, the library also comes with lots of predefined AI behaviors (for example formation motion etc.) and demo projects to help end users to kick start their projects without much hassle. Visit documentation and installiation guide on GitHub https://github.com/CodeCreatePlay360/ImmersiveAI.
 
-### Featured Work
-- [PandaEditor: Scene editor for Panda3D game engine](https://github.com/CodeCreatePlay360/PandaEditor)
-- [Massive-Designer: General purpose level design and AI behavior designer tool for Unity engine](https://github.com/CodeCreatePlay360/Massive-Designer)
+> 📕 **CodeCreatePlay** If you want to learn some cool new procedural terrain creation techniques or AI behavior design for game characters then check out the CodeCreatePlay patreon page , if has lots of cool stuff to help you get started with procedural terrains and AI programming, https://www.patreon.com/codecreateplay.
 
-### Featured Tutorials and Blog Posts
---
+***
 
-### Social
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/Maiden_Lands/)
-[![Discord](https://img.shields.io/badge/Panda_Editor-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eTMcUp2PXF)
-[![Discord](https://img.shields.io/badge/Massive_Designer-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WZ3GZCvVtg)
+<div align="center">
+<a href="https://discord.gg/7fYVergQSe"><img src="https://img.shields.io/badge/Panda_Editor-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="PandaEditor Discord"></a>
+<a href="https://discord.gg/t637nEXY6g"><img src="https://img.shields.io/badge/CodeCreatePlay-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="CodeCreatePlay Discord"></a>
+<a href="https://github.com/CodeCreatePlay360/CodeCreatePlay360"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit page"></a>
+<a href="https://github.com/CodeCreatePlay360/CodeCreatePlay360"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</div>
 
-### Need a favor ?
-- Contact CodeCreatePlay360@gmail.com                      
+<div align="center">
+<a href="https://github.com/CodeCreatePlay360/CodeCreatePlay360"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"></a>
+<a href="https://www.patreon.com/CodeCreatePlay"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
+</div>
+
+<div align="center">
+<a href="CodeCreatePlay775@gmail.com"><img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>            
