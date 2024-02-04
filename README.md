@@ -1,12 +1,10 @@
-![LogoMaster](https://github.com/CodeCreatePlay360/CodeCreatePlay360/assets/104358085/e2a7ea0a-793f-42b8-b14f-4c347e114aaf)
-
 ## Hi, 👋 welcome to CodeCreatePlay - we make software, programming tutorials and a bunch of other cool stuff like 3D environments for games and films.
 
 **Check out some of the cool stuff from CodeCreatePlay --** 
 
 > 🪶 **PandaEditor** is an open source 3D level / scene editor built on top of Panda3D game engine, perfect for hobbyists, professionals and beginners alike; it is designed to be easy to use and extend and provide end users with a convenient workflow to create immersive and engaging game words, architecture and scientific visualizations and anything else you would imagine in 3D. PandaEditor comes with support for python and C++ scripting and lots of other out of the box features. Visit PandaEditor homepage for documentation and installation guide https://github.com/CodeCreatePlay360/PandaEditor.
 
-> 🌲 **Immersive AI** is a library of AI decision making algorithms and tools to create realistic and believable AI behaviors for game characters, the library also comes with lots of predefined AI behaviors (for example formation motion etc.) and demo projects to help end users to kick start their projects without much hassle. Visit documentation and installiation guide on GitHub https://github.com/CodeCreatePlay360/ImmersiveAI.
+> 🌲 **Massive AI** is a library of AI decision making algorithms and tools to create realistic and believable AI behaviors for game characters, the library also comes with lots of predefined AI behaviors (for example formation motion etc.) and demo projects to help end users to kick start their projects without much hassle. Visit documentation and installiation guide on GitHub https://github.com/CodeCreatePlay360/MassiveAI.
 
 > 📕 **CodeCreatePlay** If you want to learn some cool new procedural terrain creation techniques or AI behavior design for game characters then check out the CodeCreatePlay patreon page , if has lots of cool stuff to help you get started with procedural terrains and AI programming, https://www.patreon.com/codecreateplay.
 
