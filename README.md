@@ -2,11 +2,11 @@
 
 **Check out some of the cool stuff from CodeCreatePlay --** 
 
-> 🪶 **PandaEditor** is an open source 3D level / scene editor built on top of Panda3D game engine, perfect for hobbyists, professionals and beginners alike; it is designed to be easy to use and extend and provide end users with a convenient workflow to create immersive and engaging game words, architecture and scientific visualizations and anything else you would imagine in 3D. PandaEditor comes with support for python and C++ scripting and lots of other out of the box features. Visit PandaEditor homepage for documentation and installation guide https://github.com/CodeCreatePlay360/PandaEditor.
+> 🪶 **PandaEditor** is an open source 3D scene editor built on top of Panda3D game engine, perfect for hobbyists, professionals and beginners alike; it is designed to be easy to use and extend and provide end users with a convenient workflow to create immersive and engaging game words, architecture and scientific visualizations and anything else you would imagine in 3D. PandaEditor comes with support for python and C++ scripting and lots of other out of the box features. Visit PandaEditor homepage for documentation and installation guide https://github.com/CodeCreatePlay360/PandaEditor.
 
-> 🌲 **Massive AI** is a library of AI decision making algorithms and tools to create realistic and believable AI behaviors for game characters, the library also comes with lots of predefined AI behaviors (for example formation motion etc.) and demo projects to help end users to kick start their projects without much hassle. Visit documentation and installiation guide on GitHub https://github.com/CodeCreatePlay360/MassiveAI.
+> 🌲 **MassiveDesigner** is a library of level design and AI behavior design tools for artists and game developers, it's an intuitive combination of both procedural and manual design tools to help you quickly fill your game worlds with realistic forests, roads, rivers and immersive AI characters within a matter of minutes; currently the library is available for Unity engine only but a long term goal is to port it to C++ so it can be used across different engines. Visit documentation and installiation guide on GitHub, https://github.com/CodeCreatePlay360/MassiveDesigner.
 
-> 📕 **CodeCreatePlay** If you want to learn some cool new procedural terrain creation techniques or AI behavior design for game characters then check out the CodeCreatePlay patreon page , if has lots of cool stuff to help you get started with procedural terrains and AI programming, https://www.patreon.com/codecreateplay.
+> 📕 **CodeCreatePlay** If you want to learn some cool new procedural terrain creation techniques or AI behavior design techniques for game characters then check out the CodeCreatePlay patreon page, if has lots of cool stuff to help you get started with procedural terrains and AI programming, https://www.patreon.com/codecreateplay.
 
 ***
 
