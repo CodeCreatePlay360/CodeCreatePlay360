@@ -1,4 +1,4 @@
-## Hi, 👋 welcome to CodeCreatePlay - we make software, programming tutorials and a bunch of other cool stuff like 3D environments for games and films.
+## Hi, 👋 welcome to CodeCreatePlay - we make software, and a bunch of other cool stuff like 3D environments for games and films.
 
 **Check out some of the cool stuff from CodeCreatePlay --** 
 
